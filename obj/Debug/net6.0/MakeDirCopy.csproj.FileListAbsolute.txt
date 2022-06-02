@@ -1,0 +1,15 @@
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\bin\Debug\net6.0\MakeDirCopy.exe
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\bin\Debug\net6.0\MakeDirCopy.deps.json
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\bin\Debug\net6.0\MakeDirCopy.runtimeconfig.json
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\bin\Debug\net6.0\MakeDirCopy.dll
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\bin\Debug\net6.0\MakeDirCopy.pdb
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\Debug\net6.0\MakeDirCopy.csproj.AssemblyReference.cache
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\Debug\net6.0\MakeDirCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\Debug\net6.0\MakeDirCopy.AssemblyInfoInputs.cache
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\Debug\net6.0\MakeDirCopy.AssemblyInfo.cs
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\Debug\net6.0\MakeDirCopy.csproj.CoreCompileInputs.cache
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\Debug\net6.0\MakeDirCopy.dll
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\Debug\net6.0\refint\MakeDirCopy.dll
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\Debug\net6.0\MakeDirCopy.pdb
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\Debug\net6.0\MakeDirCopy.genruntimeconfig.cache
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\Debug\net6.0\ref\MakeDirCopy.dll

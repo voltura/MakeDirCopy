@@ -1,0 +1,13 @@
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\bin\x64\Release\net6.0-windows\MakeDirCopy.exe
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\bin\x64\Release\net6.0-windows\MakeDirCopy.deps.json
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\bin\x64\Release\net6.0-windows\MakeDirCopy.runtimeconfig.json
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\bin\x64\Release\net6.0-windows\MakeDirCopy.dll
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\bin\x64\Release\net6.0-windows\MakeDirCopy.pdb
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\x64\Release\net6.0-windows\MakeDirCopy.csproj.AssemblyReference.cache
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\x64\Release\net6.0-windows\MakeDirCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\x64\Release\net6.0-windows\MakeDirCopy.AssemblyInfoInputs.cache
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\x64\Release\net6.0-windows\MakeDirCopy.AssemblyInfo.cs
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\x64\Release\net6.0-windows\MakeDirCopy.csproj.CoreCompileInputs.cache
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\x64\Release\net6.0-windows\MakeDirCopy.dll
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\x64\Release\net6.0-windows\MakeDirCopy.pdb
+C:\Users\joaki\source\repos\voltura\MakeDirCopy\obj\x64\Release\net6.0-windows\MakeDirCopy.genruntimeconfig.cache
