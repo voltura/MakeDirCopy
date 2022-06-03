@@ -1,4 +1,0 @@
-C:\Users\joaki\source\repos\voltura\MakeDirCopy\bin\Release\net6.0-windows\win-x64\publish\MakeDirCopy.exe
-C:\Users\joaki\source\repos\voltura\MakeDirCopy\bin\Release\net6.0-windows\win-x64\publish\MakeDirCopy.runtimeconfig.json
-C:\Users\joaki\source\repos\voltura\MakeDirCopy\bin\Release\net6.0-windows\win-x64\publish\MakeDirCopy.pdb
-C:\Users\joaki\source\repos\voltura\MakeDirCopy\bin\Release\net6.0-windows\win-x64\publish\MakeDirCopy.deps.json
