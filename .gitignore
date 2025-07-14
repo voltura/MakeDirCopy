@@ -363,3 +363,7 @@ MigrationBackup/
 FodyWeavers.xsd
 obj
 bin
+/.vs/MakeDirCopy/DesignTimeBuild/.dtbcache.v2
+/MakeDirCopy.csproj.user
+/Properties/PublishProfiles/FolderProfile.pubxml.user
+/.vs/MakeDirCopy/v17/.suo
