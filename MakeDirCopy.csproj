@@ -2,15 +2,15 @@
 
 	<PropertyGroup>
 		<OutputType>WinExe</OutputType>
-		<TargetFramework>net8.0</TargetFramework>
+		<TargetFramework>net10.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<PublishAot>true</PublishAot>
+		<IlcOptimizationPreference>Speed</IlcOptimizationPreference>
 		<InvariantGlobalization>true</InvariantGlobalization>
 		<RuntimeIdentifier>win-x64</RuntimeIdentifier>
 		<SelfContained>true</SelfContained>
 		<StripSymbols>true</StripSymbols>
-		<EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
 		<DebugType>none</DebugType>
 		<ProduceReferenceAssembly>False</ProduceReferenceAssembly>
 	</PropertyGroup>

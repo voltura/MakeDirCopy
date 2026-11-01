@@ -2,7 +2,7 @@
 
 static void ProcessFiles()
 {
-    foreach (FileInfo fi in GetFileInfosFromDir(AppDomain.CurrentDomain.BaseDirectory)) if (FileToBeProcessed(fi)) ProcessFile(fi);
+    foreach (FileInfo fi in GetFileInfosFromDir(AppContext.BaseDirectory)) if (FileToBeProcessed(fi)) ProcessFile(fi);
 }
 
 static void ProcessFile(FileInfo fi)
@@ -18,6 +18,10 @@ static void MoveFile(FileInfo fi, string dir) => File.Move(fi.FullName, Path.Com
 
 static void CreateDir(string dir) => Directory.CreateDirectory(dir);
 
-static bool FileToBeProcessed(FileInfo fi) => !(fi.Attributes.HasFlag(FileAttributes.Directory) || fi.Extension.Contains("qt") || fi.Extension.Contains("exe"));
+static bool FileToBeProcessed(FileInfo fi)
+{
+    var extension = fi.Extension;
+    return extension.Length > 0 && !extension.Contains("qt") && !extension.Contains("exe");
+}
 
-static FileInfo[] GetFileInfosFromDir(string path) => new DirectoryInfo(path).GetFiles("*.*", SearchOption.TopDirectoryOnly);
+static IEnumerable<FileInfo> GetFileInfosFromDir(string path) => new DirectoryInfo(path).EnumerateFiles("*.*", SearchOption.TopDirectoryOnly);
